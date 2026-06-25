@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tombé Pour Elle
+
+This log tracks the cryptographic history and versioning for the song **Tombé Pour Elle** (tombe-pour-elle).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:53:44.333727 | `v1` | `27ce1c6c32d004ac8d5bbcbc2dab68ddc303a3de44ceff79cbcaaf57361eef95` | `d9d47fd95dd203d3542e7d2560ebaaf7ce22008d0bdfc5ac5c809167c386c2c5` | `2026-06-25_tombe-pour-elle-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

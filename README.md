@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tombe-pour-elle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tombé Pour Elle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tombe-pour-elle/) |
+| **Get License** | [License this song: Tombé Pour Elle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tombe-pour-elle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `27ce1c6c32d004ac8d5bbcbc2dab68ddc303a3de44ceff79cbcaaf57361eef95` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
