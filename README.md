@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tombe-pour-elle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tombé Pour Elle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tombe-pour-elle/) |
+| **Get License** | [Get a Licensing Quote for Tombé Pour Elle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tombe-pour-elle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, tu brilles dans la nuit
+> Ton parfum de mystère, c'est tout ce dont j'ai envie
+> Dans ma tête ça résonne, un flash, une étincelle
+> Ce soir je perds le contrôle, je suis tombé pour elle
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
